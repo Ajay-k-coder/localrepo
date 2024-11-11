@@ -26,3 +26,21 @@ hr{
     height : 20px;
     background-color: rgb(116, 32, 116);
 }
+
+li{
+    list-style:none;
+    display:inline;
+    margin-right:220px;
+    font-size:20px;
+    background-color:pink;
+    padding:10px;
+    color:white;
+}
+
+div{
+    border:2px solid white;
+    background-color:red;
+    
+    
+    padding:10px;
+}
