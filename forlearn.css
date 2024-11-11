@@ -46,8 +46,15 @@ div{
 }
 
 h2{
+ 
     background-color:white;
     text-align:center;
     font-size:40px;
     color:red;
+
+    background-color:rgb(255, 0, 157);
+    color:white;
+    text-align:center;
+    font-size:40px;
+
 }
