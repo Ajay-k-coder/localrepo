@@ -21,3 +21,8 @@ p {
     color: red;
     font-size:20px;
 }
+
+hr{
+    height : 20px;
+    background-color: rgb(116, 32, 116);
+}
